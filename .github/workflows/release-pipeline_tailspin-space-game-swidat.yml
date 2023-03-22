@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tailspin-space-game-swidat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E99B6FC52063487D8416C15AC2B8DF7D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FE5F13DEEC64DBFBD2FF0B1D3C63D43 }}
           package: .
